@@ -5,6 +5,16 @@
 
 ---
 
+## ❌ The Problem
+
+Most MSP and digital agency websites are static brochures — they describe services but don't actually deliver them. Visitors fill out a contact form, wait 24-48 hours for a response, and by then they've called three competitors. Small business owners need immediate answers about pricing, availability, and whether a service fits their needs — not a "we'll get back to you" autoresponder.
+
+**Before:** Static brochure site, 24-48 hour response time, no self-service, lost leads to competitors who answer faster, no way to qualify prospects automatically.
+
+**After (AI Agent Hub):** AI agents capture, qualify, and route leads in real time. Instant demo booking, automated solution matching, intelligent follow-up sequencing. The website becomes a 24/7 sales and service delivery platform.
+
+---
+
 ## 🧠 AI Agent Architecture
 
 ```mermaid
